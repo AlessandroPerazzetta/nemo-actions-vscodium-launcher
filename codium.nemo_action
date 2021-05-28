@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Codium here
+Comment=Launch Codium on this folder
+Exec=codium %P
+Icon-Name=com.visualstudio.code
+Selection=none
+Extensions=any;
+Quote=double
+Dependencies=codium;
