@@ -1,6 +1,6 @@
 # Nemo VSCodium action
 
-Nemo file manager let adding actions and scripts by adding file (syntax: custom-file.nemo_action) in ~/.local/share/nemo.
+Nemo file manager let adding actions and scripts by adding file (syntax: custom-file.nemo_action) in ~/.local/share/nemo/actions/.
 
 ![codium nemo_action-menu](https://user-images.githubusercontent.com/482310/120016537-065b6100-bfe5-11eb-88bf-09bef95ef6bb.png)
 
